@@ -1,11 +1,11 @@
-984c6ed37552bf1ab64820abe02f8596 *DESCRIPTION
+c7e48b11dee6bfc54fdd608e79ae8ba1 *DESCRIPTION
 a354b361138d27b5e8bff40da35ca90f *NAMESPACE
-e349f5075cd6fcb1c232328710dbd20b *NEWS.md
+ead42f967cc8a8fee5050d5761129dc3 *NEWS.md
 c2f64ffc60472f1834042f4f4b13dbac *R/RcppExports.R
-9818be19c2c53eb84d8880ded6ec3a73 *R/boosting_function.R
+2923b7a08743f6a38a21fd14332ec6e3 *R/boosting_function.R
 2b84311a284b0bc3f770a8f2ad935bb0 *R/simulate_survival_cox.R
 e533eb5eb27eb5e68ae23d5a5c6a03b9 *R/strata.boosting.R
-6df051491edecb3e6ec3c8369a52e9df *README.md
+b3bad8640a3bd2fd9c0ad41bcc0ba652 *README.md
 9c247406abf73dff1310570d664b7ab5 *man/boosting_core.Rd
 aabe80a1455673fe7e2efa78930ac16b *man/inference.boosting.Rd
 cd48ed139635a336840a88bdad9d7efc *man/modelfit.boosting.Rd
@@ -18,4 +18,4 @@ f45da16c7d2f3c0094619aa93c14760e *man/strata.boosting.Rd
 3996e7c16bfb96fad295ee425815cb4d *src/Makevars
 1b26d3e9385816ef45931ff3c9212326 *src/Makevars.win
 e7ca65daf04dbd3355b02b8352c9de13 *src/RcppExports.cpp
-84688dc5276745ad03c843ec051844a9 *src/boosting_package.cpp
+d50adf1069970d37c7e5af1bcbe544b7 *src/boosting_package.cpp
